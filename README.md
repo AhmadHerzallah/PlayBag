@@ -1,11 +1,27 @@
-# Sample Snack app
+# PlayBag
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## What is PlayBag?
+A Mobile-Application for Gamers, Investors, and Companies for eSports tournaments in-general
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+## User Groups
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+### Gamers
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+as gamers, we want to invest our time by participating in tournaments to win prizes either money or swags.
+issue: there’s no one platform where most of the tournaments are, including a tab to view stats (tournaments, rankings).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+### Investors
+
+as investors, we'd sponsor tournaments to share our brand with the world and to support gamers who are playing the tournaments
+issue: no platform to invest into well-known tournaments
+
+### Companies
+
+as companies who are interested in esports communities, having one platform where we can post our announcements and participate form for tournaments that we'll run on our own.
+issue: want a platform where we can advertise our tournament
+
+<hr>
+
+### PlayBag is Open-Source on Expo!
+
+[Playbag - Expo](https://snack.expo.dev/@itsahmd25/playbag-y2-updated)
